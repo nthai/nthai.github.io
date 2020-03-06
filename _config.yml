@@ -1,0 +1,27 @@
+plugins: ['jekyll-paginate']
+
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Hai's blog
+tagline:          'The Brief Wondrous Life of Hai'
+description:      'The Brief Wondrous Life of Hai'
+url:              http://nthai.github.io
+baseurl:          /
+
+author:
+  name:           'Nguyen Tuan Hai'
+  url:            https://twitter.com/HaiDiagram
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/nthai
