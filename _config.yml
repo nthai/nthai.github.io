@@ -1,4 +1,6 @@
-plugins: ['jekyll-paginate']
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
 
 # Dependencies
 markdown:         kramdown
